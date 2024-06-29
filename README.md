@@ -1,4 +1,4 @@
-# db-component
+# DB Component
 
 DBComponent was a university project that consisted of building a library to allow connecting to a PostgreSQL database through a connection pool.
 
@@ -23,3 +23,6 @@ This project helped me to understand and practice the following concepts:
 - Exception handling.
 
 The component can be exported as a .jar file and used in other packages.
+
+> [!NOTE]
+> School project for visual programming class at URU.
